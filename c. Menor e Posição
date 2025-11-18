@@ -16,7 +16,6 @@ int main() {
             posicao = i;
         }
     }
-
     printf("Menor valor: %d\n", menor_valor);
     printf("Posicao: %d\n", posicao);
 
