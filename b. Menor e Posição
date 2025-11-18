@@ -29,5 +29,6 @@ int main() {
     printf("Posicao: %d\n", posicao);
 
     free(X);
+
     return 0;
 }
